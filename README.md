@@ -8,7 +8,7 @@
 
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
-The purpose of this project is to get familiar with the Unity Editor and working with scenes.
+The purpose of this project is to get familiar with Unity Editor and tweaking some parameters for the game to work properly.
 
 It was built for Google Cardboard and tested on an Android device (Galaxy S7).
 
